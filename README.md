@@ -47,7 +47,7 @@
             - Yoda
       </h3>
       <h1 align="center"> 
-          <img src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/lordSithVader.gif">
+          <img src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/ziguiriguidum.gif">
       </h1>
     <div> 
       <aside>
